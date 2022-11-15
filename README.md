@@ -1,7 +1,7 @@
 ## 💻 Sobre o projeto
 
 - Site que traz as condições climáticas de qualquer cidade do mundo.
-- Ele consome dados de uma [API ](https://github.com/brunnasousa/clima_api).
+- Ele consome dados de uma [API - OpenWeather](https://openweathermap.org/api).
 
 ## 🛠 Ferramentas
 
@@ -14,6 +14,7 @@ As seguintes ferramentas foram usadas na construção do projeto até o momento:
 ## 🕵️‍♀️ Informaçoes importantes
 
 - configuração de APIs de terceiros com base em uma API key.
+(API - privada = precisa criar uma conta para gerar uma key particular)
 
 - apiCountryURL = "https://countryflagsapi.com/png/";
 - const apiUnsplash = "https://source.unsplash.com/1600x900/?"
